@@ -4,7 +4,7 @@ Buy & Sell
 
 ### Visit This Site
 
-live site: (https://buy-and-sell-3568b.firebaseapp.com/)
+live site: (https://earthly-simple-shop.firebaseapp.com)
 
 ### Features & Functionality
 
