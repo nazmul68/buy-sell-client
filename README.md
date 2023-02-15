@@ -5,6 +5,8 @@ Buy & Sell
 ### Visit This Site
 
 live site: (https://buy-and-sell-3568b.firebaseapp.com/)
+admin email : sujon600500@gmail.com
+password    : A@123123
 
 ### Features & Functionality
 
