@@ -8,7 +8,7 @@ live site: (https://buy-and-sell-3568b.firebaseapp.com/)
 
 ### Features & Functionality
 
-\* All products data are loaded dynamically from Database (MongoDb) trough API.
+\* All products data are loaded dynamically from Database (MongoDb) through API.
 
 \* Buy & Sell had 3 types of user role ADMIN, SELLER, BUYER
 
