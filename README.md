@@ -4,10 +4,12 @@ Buy & Sell
 
 ### Visit This Site
 
-live site: (https://buy-and-sell-3568b.firebaseapp.com/)
-server side code : (https://github.com/nazmulsujon/buy-sell-server)
-admin email : sujon600500@gmail.com
-password    : A@123123
+**live site: (https://buy-and-sell-3568b.firebaseapp.com/)
+
+**server side code : (https://github.com/nazmulsujon/buy-sell-server)
+
+**admin email : sujon600500@gmail.com
+**password    : A@123123
 
 ### Features & Functionality
 
